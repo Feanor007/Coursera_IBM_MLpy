@@ -1,1 +1,1 @@
-# Coursera_IBM_MLpy
+# Coursera_IBM_MLPy
